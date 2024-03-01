@@ -4,7 +4,7 @@
 
 
 body {
-  background-image: url(https://cdn.pixabay.com/photo/2017/06/24/14/27/smoke-2437886_1280.jpg); /* Replace 'path/to/your/image.jpg' with the path to your image */
+  background-image: url(https://cdn.pixabay.com/photo/2017/06/24/14/27/smoke-2437886_1280.jpg); 
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
