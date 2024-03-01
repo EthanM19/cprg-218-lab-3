@@ -1,12 +1,10 @@
-/* Container for the YouTube video */
 .video-container {
     position: relative;
     width: 100%;
-    padding-bottom: 56.25%; /* Aspect ratio: 16:9 (Height/Width * 100%) */
+    padding-bottom: 56.25%; 
     overflow: hidden;
 }
 
-/* Responsive YouTube video */
 .video-container iframe {
     position: absolute;
     top: 0;
